@@ -80,6 +80,15 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
+![WhatsApp Image 2024-04-22 at 13 36 23_f8a49f7a](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/3c2783a7-75d9-43fd-9fc9-53e4ebcc75ab)
+![WhatsApp Image 2024-04-22 at 13 36 22_2236a554](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/078d2bb1-47b8-4535-b154-c5cac2a6ef36)
+![WhatsApp Image 2024-04-22 at 13 36 22_b93376ca](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/b3ce514e-8209-4ebf-883f-e623e96b43cd)
+![WhatsApp Image 2024-04-22 at 13 36 20_e1821da5](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/09eaf86e-f2ee-400c-b6a2-e8f36fbd0581)
+![WhatsApp Image 2024-04-15 at 14 31 08_cedd0760](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/4574937b-6a5a-4268-b2ae-e5a8bcbbb80a)
+![WhatsApp Image 2024-04-15 at 14 31 09_0a4115d2](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/9a13819d-4156-4a21-9f1a-89aaf716f157)
+![WhatsApp Image 2024-04-22 at 13 36 19_a6b5de25](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/75236be9-84a2-400a-92b8-d6288fa92bf7)
+![WhatsApp Image 2024-04-22 at 13 36 18_3ebfdc69](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/d6b166cf-6f74-4f7a-b773-c727935ad4b8)
+![WhatsApp Image 2024-04-22 at 13 36 17_031e487f](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/3cb2f4e3-4927-45fe-a6c4-4e237e67176f)
 
 
 

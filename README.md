@@ -37,6 +37,7 @@ Force & position adjustment
 Self-locking
 
                   ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+                  
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -99,6 +100,12 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 13 36 18_f0a6788f](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/042b60ac-05a7-4554-aafd-95db8c284c44)
+![WhatsApp Image 2024-04-22 at 13 36 17_4f123ceb](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/05af51dd-9637-4df5-8fdf-02af984d62bc)
+![WhatsApp Image 2024-04-22 at 13 36 17_cc0081a6](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/33c51259-637e-4dd8-ad60-45ee9ca028b5)
+![WhatsApp Image 2024-04-22 at 13 36 16_d7c9aca4](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/4d63ea60-cb2d-4123-afaf-bcdf3e11de5b)
+![WhatsApp Image 2024-04-22 at 13 36 15_6d1af526](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/167073142/73d5579f-cb58-4994-997b-5dd9d80bc2e4)
+
 
 
 
